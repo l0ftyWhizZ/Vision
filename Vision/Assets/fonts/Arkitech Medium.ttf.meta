@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3a0519cf31e204bfe836b137f6791810
+timeCreated: 1486808803
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arkitech Medium
+  fontNames:
+  - Arkitech Medium
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
